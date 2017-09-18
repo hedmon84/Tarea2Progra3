@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Progra3Tarea2/Test.cpp
+Test.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Progra3Tarea2/Test.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Progra3Tarea2/Test.h
+iostream
+-
+stack
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Progra3Tarea2/main.cpp
+Test.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Progra3Tarea2/Test.h
+iostream
+-
+
